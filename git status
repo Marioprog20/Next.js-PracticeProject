@@ -1,0 +1,78 @@
+[33mcommit 9b36129f8cf002c136611d096fbaddd91423abe2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Mon Nov 10 10:16:09 2025 +0100
+
+    Added try/catch, error handling and 404 handling (Chapter 12)
+
+[33mcommit 084fda6c2326e328e9675bceccaee4cd03b25250[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Fri Nov 7 21:12:21 2025 +0100
+
+    added search, edit and delete functionalities
+
+[33mcommit 8d67c5eca894448d709b06ba778e0dd1cc41148d[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Fri Nov 7 11:33:14 2025 +0100
+
+    Implementando la paginación en la pagina Invoices )
+
+[33mcommit 6ce64b7850eabca4628d728e545612110f30b12b[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Fri Nov 7 11:12:15 2025 +0100
+
+    Implementando la busqueda en la pagina Invoices (Tambien correccion bug seed base de datos)
+
+[33mcommit fcc25245d0da2d1ba01f49d250eee5096a21ffd5[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Thu Nov 6 12:39:19 2025 +0100
+
+    Chapter 9 - Aplying skeletons and streaming on the dashboard page
+
+[33mcommit f4dcff1e219cf70f289de4078bbaa4ad39e0aa2a[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Thu Nov 6 11:52:07 2025 +0100
+
+    Chapter 7 - Fetching data from database and visualizing it
+
+[33mcommit 47684a5bad592f0a8e1f6346ee2b3b875e9d218d[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Thu Nov 6 09:52:38 2025 +0100
+
+    modulo 6
+
+[33mcommit 94e4f5ead631c75164497875f0fb828675b79384[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Wed Nov 5 20:20:18 2025 +0100
+
+    prueba
+
+[33mcommit d24e730f562b919075abd2e1acc6329ae89cc6e7[m
+Merge: d098556 7ef9f13
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Wed Nov 5 19:47:52 2025 +0100
+
+    Merge branch 'main' of https://github.com/Marioprog20/Next.js-PracticeProject
+
+[33mcommit 7ef9f133397400d36f45fc27ba6c9cd42d6e612b[m[33m ([m[1;31mMarioprog20/main[m[33m, [m[1;31mMarioprog20/HEAD[m[33m)[m
+Author: Marioprog20 <151453857+Marioprog20@users.noreply.github.com>
+Date:   Wed Nov 5 19:24:34 2025 +0100
+
+    Add smiley face to README description
+
+[33mcommit d098556415b2b02f4a128aa790b3af5925456fb1[m[33m ([m[1;31mMarioprog20/master[m[33m)[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Wed Nov 5 19:03:39 2025 +0100
+
+    5 first modules
+
+[33mcommit 45c95de477159fad52eaa08b49abe8d2b79e5cba[m
+Author: Marioprog20 <151453857+Marioprog20@users.noreply.github.com>
+Date:   Wed Nov 5 18:52:22 2025 +0100
+
+    Initial commit
+
+[33mcommit 7112791484879310a7a83f9c6619ceb077dd7467[m
+Author: Marioprog20 <magomgar.20.09@gmail.com>
+Date:   Wed Nov 5 10:03:44 2025 +0100
+
+    Initial commit from Create Next App
